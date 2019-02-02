@@ -1,6 +1,6 @@
 # Goodbye webpack: Building Vue.js Applications Without webpack
 
-*__Copied from__ https://markus.oberlehner.net/blog/goodbye-webpack-building-vue-applications-without-webpack/*
+*__Copied from__ https://markus.oberlehner.net/blog/goodbye-webpack-building-vue-applications-without-webpack/. The app uses Tailwind CSS https://tailwindcss.com/docs/what-is-tailwind/*
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-blue.svg)](https://www.patreon.com/maoberlehner)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/maoberlehner)
