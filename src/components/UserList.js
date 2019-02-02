@@ -1,5 +1,6 @@
-const UserInfo = () => import('./UserInfo.js');
-
+// This dynamic import doesn't work in Firefox
+// const UserInfo = () => import('./UserInfo.js');
+import UserInfo from "./UserInfo.js"
 export default {
   name: `UserList`,
   components: {
